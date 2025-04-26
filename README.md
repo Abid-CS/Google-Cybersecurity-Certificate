@@ -1,2 +1,2 @@
 # Google-Cybersecurity-Certificate
-My journey through Google’s Cybersecurity Certificate
+My journey through the Google’s Cybersecurity Certificate
