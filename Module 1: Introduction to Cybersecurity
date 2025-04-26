@@ -1,4 +1,4 @@
-### ✅ Key Concepts Covered
+# ✅ Key Concepts Covered
 
 - What is Cybersecurity?
 - Job Responsibilities
@@ -8,45 +8,44 @@
 
 ---
 
-
-### 🧠 What I Learned (Summary)
+# 🧠 What I Learned (Summary)
 
 - In this first module, I got a solid overview of what cybersecurity actually is and why it matters so much today. It covered the basics like how cybersecurity is all about protecting information, devices, and systems from digital attacks.
-- I learnt about some of the different job responsibilities of a security analyst. Protecting computer and network systems requires an analyst to monitor an organisation's internal network. If a threat is detected, then an analyst is generally the first to respond. Analysts also often take part in exercises to search for weaknesses in an organisation's own systems.
-- Most of us already have skills that will be useful in the cybersecurity sector, such as communication and problem-solving. This is called a transferable skill, which is a skill from other areas of study or practice that can apply to different careers. There are also other skills that are more specific to the job, such as programming and knowing how to use SIEM tools. These are technical skills. These skills may apply to several professions, as well; however, they typically require knowledge of specific tools, procedures, and policies.
-- The module also covered some of the different roles available in cybersecurity and went over how they differ from one another. For example, the difference between a cybersecurity analyst and a cybersecurity engineer is that the analyst is more focused on operations, and the engineer, while they can do operations, they also build the detections and they do more project-focused work.
-- All in all, this module laid a strong foundation and showed me how cybersecurity is more than just tech. It's about protecting people and businesses in a world that's becoming more digital by the day.
+- I learned about some of the different job responsibilities of a security analyst. Protecting computer and network systems requires an analyst to monitor an organisation's internal network. If a threat is detected, the analyst is generally the first to respond. Analysts also often take part in exercises to search for weaknesses in an organisation's own systems.
+- Most of us already have skills that will be useful in the cybersecurity sector, such as communication and problem-solving. This is called a transferable skill, which is a skill from other areas of study or practice that can apply to different careers. There are also other skills that are more specific to the job, such as programming and knowing how to use SIEM tools. These are technical skills, which typically require knowledge of specific tools, procedures, and policies.
+- The module also covered some of the different roles available in cybersecurity and went over how they differ from one another. For example, the difference between a cybersecurity analyst and a cybersecurity engineer is that the analyst is more focused on operations, while the engineer does more project-focused work and builds detections.
+- All in all, this module laid a strong foundation and showed me how cybersecurity is more than just tech—it's about protecting people and businesses in a world that's becoming more digital by the day.
 
 ---
 
-### 💬 Key Terminology
+# 💬 Key Terminology
 
 | Term | Meaning |
 | --- | --- |
-| Cybersecurity (or security) | The practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorised access or criminal exploitation |
-| Cloud security | The process of ensuring that assets stored in the cloud are properly configured and access to those assets is limited to authorised users |
-| Confidentiality, integrity, availability (CIA) triad | A model that helps inform how organizations consider risk when setting up systems and security policies |
-| Compliance | The process of adhering to internal standards and external regulations enables organizations to avoid fines and security breaches |
-| External threat | Someone outside of the organisation trying to gain access to private information, networks or devices |
-| Internal threat | A current or former employee, external vendor, or trusted partner who poses a security risk |
-| Identity theft | The act of stealing personal information to commit fraud while impersonating a victim |
-| Network security | The practice of keeping an organisation's network infrastructure secure from unauthorised access |
-| Personally identifiable information (PII) | Any information used to infer an individual’s identity |
-| Sensitive personally identifiable information (SPII) | A specific type of PII that falls under stricter handling guidelines |
-| Security audit | A review of an organisation's security records, activities, and other related documents. |
-| Security frameworks | Guidelines used for building plans to help mitigate risks and threats to data and privacy |
-| Security controls | Safeguards designed to reduce specific security risks. They are used with security frameworks to establish a strong security posture |
-| Security posture | An organisation’s ability to manage its defence of critical assets and data and react to change. A strong security posture leads to lower risk for the organisation |
-| Programming | A process that can be used to create a specific set of instructions for a computer to execute tasks |
-| Security information and event management (SIEM) | An application that collects and analyses log data to monitor critical activities in an organization |
-| Transferable skills | Skills from other areas that can be applied to different careers |
-| Threat actor | Any person or group who presents a security risk |
-| Technical skills | Skills that require knowledge of specific tools, procedures, and policies  |
-| Threat | Any circumstance or event that can negatively impact assets |
+| **Cybersecurity (or security)** | The practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorised access or criminal exploitation. |
+| **Cloud security** | The process of ensuring that assets stored in the cloud are properly configured and access to those assets is limited to authorised users. |
+| **Confidentiality, integrity, availability (CIA) triad** | A model that helps inform how organisations consider risk when setting up systems and security policies. |
+| **Compliance** | The process of adhering to internal standards and external regulations enables organisations to avoid fines and security breaches. |
+| **External threat** | Someone outside of the organisation trying to gain access to private information, networks or devices. |
+| **Internal threat** | A current or former employee, external vendor, or trusted partner who poses a security risk. |
+| **Identity theft** | The act of stealing personal information to commit fraud while impersonating a victim. |
+| **Network security** | The practice of keeping an organisation's network infrastructure secure from unauthorised access. |
+| **Personally identifiable information (PII)** | Any information used to infer an individual’s identity. |
+| **Sensitive personally identifiable information (SPII)** | A specific type of PII that falls under stricter handling guidelines. |
+| **Security audit** | A review of an organisation's security records, activities, and other related documents. |
+| **Security frameworks** | Guidelines used for building plans to help mitigate risks and threats to data and privacy. |
+| **Security controls** | Safeguards designed to reduce specific security risks. They are used with security frameworks to establish a strong security posture. |
+| **Security posture** | An organisation’s ability to manage its defence of critical assets and data and react to change. A strong security posture leads to lower risk for the organisation. |
+| **Programming** | A process that can be used to create a specific set of instructions for a computer to execute tasks. |
+| **Security information and event management (SIEM)** | An application that collects and analyses log data to monitor critical activities in an organisation. |
+| **Transferable skills** | Skills from other areas that can be applied to different careers. |
+| **Threat actor** | Any person or group who presents a security risk. |
+| **Technical skills** | Skills that require knowledge of specific tools, procedures, and policies. |
+| **Threat** | Any circumstance or event that can negatively impact assets. |
 
 ---
 
-### 🧾 Tools/Concepts Mentioned
+# 🧾 Tools/Concepts Mentioned
 
 - Security audit
 - SIEM tools
@@ -55,13 +54,13 @@
 
 ---
 
-### 🤔 Why This Module Matters
+# 🤔 Why This Module Matters
 
 - It lays the foundation for understanding what cybersecurity is, why it’s important, and how it protects people and businesses from digital threats.
 
 ---
 
-### 🔗 Optional Links/Resources
+# 🔗 Optional Links/Resources
 
 - [Course 1 Glossary](https://docs.google.com/document/d/1bBtBHYrrm4kmWJqJVmeNUDPG24ydGvc4ACMLoP9zzps/template/preview?resourcekey=0-0uttQ9n9hmekaJBuPVjWMg)
 - [Career Identity YT Vid](https://www.youtube.com/watch?v=_xbT4qMrot4&ab_channel=GoogleCareerCertificates)
