@@ -1,2 +1,2 @@
 # Google-Cybersecurity-Certificate
-My journey through the Google’s Cybersecurity Certificate
+This repository contains my notes and progress as I work through the Google Cybersecurity Certificate.
